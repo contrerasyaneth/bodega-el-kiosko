@@ -1,0 +1,38 @@
+body{
+    margin: 5%;
+}
+h1{
+    background-color: rgb(240, 41, 6);  
+}
+.kiosko{
+    width: 5%;
+    
+}
+.titulo1{
+    padding-left: 30% ;
+}
+h2{
+    text-align: center;
+    padding-top: 5%;
+    color: dimgrey;
+}
+hr{
+    width: 80%;
+}
+.cmdr{
+    margin-right: 80%;
+}
+.comedores{
+    display: flex;
+    flex-direction: row;
+}
+.caja1{
+    margin-right: 5%;
+}
+.escritorios{
+    display: flex;
+    flex-direction: row;
+}
+.caja2{
+    margin-right: 5%;
+}

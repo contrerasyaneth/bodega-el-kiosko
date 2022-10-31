@@ -2,15 +2,14 @@ body{
     margin: 5%;
 }
 h1{
-    background-color: rgb(240, 41, 6);  
+    background-color: rgb(240, 41, 6); 
+    font-size:medium; 
 }
 .kiosko{
     width: 5%;
-    
+    margin-right: 40%;
 }
-.titulo1{
-    padding-left: 30% ;
-}
+
 h2{
     text-align: center;
     padding-top: 5%;
@@ -36,3 +35,19 @@ hr{
 .caja2{
     margin-right: 5%;
 }
+.terrazas{
+    display: flex;
+    flex-direction: row;
+}
+.caja3{
+    margin-right: 5%; 
+}
+.tyj{
+    margin-right: 80%;
+}
+footer{
+    background-color:rgb(240, 41, 6);
+    text-align: center;
+    padding-top:5%;
+}
+

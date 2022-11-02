@@ -1,10 +1,12 @@
 body{
     margin: 5%;
 }
+
 h1{
     background-color: rgb(240, 41, 6); 
     font-size:medium; 
 }
+
 .kiosko{
     width: 5%;
     margin-right: 40%;
@@ -15,36 +17,53 @@ h2{
     padding-top: 5%;
     color: dimgrey;
 }
+
 hr{
     width: 80%;
 }
+
+summary {
+    list-style: none;
+}
+
 .cmdr{
     margin-right: 80%;
 }
+
 .comedores{
+    text-align: center;
     display: flex;
     flex-direction: row;
 }
+
 .caja1{
     margin-right: 5%;
 }
+
 .escritorios{
+    text-align: center;
     display: flex;
     flex-direction: row;
 }
+
 .caja2{
     margin-right: 5%;
 }
+
 .terrazas{
+    text-align: center;
     display: flex;
     flex-direction: row;
 }
+
 .caja3{
     margin-right: 5%; 
 }
+
 .tyj{
     margin-right: 80%;
 }
+
 footer{
     background-color:rgb(240, 41, 6);
     text-align: center;
